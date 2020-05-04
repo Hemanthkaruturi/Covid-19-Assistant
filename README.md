@@ -17,3 +17,5 @@ pip install -r requirements.txt
 * PAGE_ACCESS_TOKEN = ''  # paste your page access token here>"
 
 Note: Dialogbot.py works individually to test the performance of the bot.
+
+You can chat with the bot with this link m.me/SharingTechinfo
