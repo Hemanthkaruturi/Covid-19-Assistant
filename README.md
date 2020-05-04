@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 ## create your intents, entities, parameters in Google Dialogflow
 ## connect your Dialogflow bot with python
-@
+@covid_bot.py
 * DIALOGFLOW_PROJECT_ID = 'your-project-ID' -- provide your project ID here
 * os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'google_key.json' -- download google key from service accounts (.json file)
 
